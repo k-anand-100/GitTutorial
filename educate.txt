@@ -2,4 +2,4 @@ I will get educated.
 Changing to check if it still exists after switching branch
 Getting educated need not be formal. 
 Check branching
-
+This is a new line added to. To be merged to main.
